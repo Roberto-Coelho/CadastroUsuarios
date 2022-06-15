@@ -1,5 +1,5 @@
 import pyodbc
-from aprendendoBD import retornar_conexao_sql
+import retornar_conexao_sql
 import PySimpleGUI as sg
 
 
